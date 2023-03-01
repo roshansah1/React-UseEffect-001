@@ -49,7 +49,6 @@ const Search = () => {
         </div>
         <div className="content_box">
             <div className="content" id="content">
-                 {/* <div className="box"></div> */}
                  <List data={data}/>
             </div>
         </div>
